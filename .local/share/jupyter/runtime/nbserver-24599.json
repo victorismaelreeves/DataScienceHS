@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/ml32020/victor_i",
+  "password": true,
+  "pid": 24599,
+  "port": 8005,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://0.0.0.0:8005/"
+}

@@ -1,0 +1,2 @@
+/home/ml32020/victor_i/miniconda3
+/home/ml32020/victor_i/miniconda3/envs/py3_study

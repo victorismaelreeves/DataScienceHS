@@ -1,0 +1,45 @@
+{% set version = "0.37.0" %}
+
+package:
+  name: wheel
+  version: {{ version }}
+
+source:
+  url: https://pypi.io/packages/source/w/wheel/wheel-{{ version }}.tar.gz
+  sha256: e2ef7239991699e3355d54f8e968a21bb940a1dbf34a4d226741e64462516fad
+
+build:
+  noarch: python
+  number: 1
+  script: python setup.py install --single-version-externally-managed --record=record.txt
+  entry_points:
+    - wheel = wheel.cli:main
+
+requirements:
+  host:
+    - python
+    - setuptools >=40.9
+  run:
+    - python
+
+test:
+  imports:
+    - wheel
+  commands:
+    - wheel --help
+
+about:
+  home: https://github.com/pypa/wheel
+  license: MIT
+  license_family: MIT
+  license_file: LICENSE.txt
+  summary: A built-package format for Python.
+  dev_url: https://github.com/pypa/wheel
+  doc_url: https://github.com/pypa/wheel/blob/master/README.rst
+
+extra:
+  recipe-maintainers:
+    - jakirkham
+    - pelson
+    - ocefpaf
+    - mingwandroid
