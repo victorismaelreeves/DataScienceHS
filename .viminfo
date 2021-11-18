@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1637267874,,"wq"
 :q
 |2,0,1636622314,,"q"
-:wq
-|2,0,1636613930,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,34 +27,58 @@
 # Registers:
 
 # File marks:
-'0  1  40  ~/run_jupyter.sh
-|4,48,1,40,1636622314,"~/run_jupyter.sh"
-'1  1  0  ~/.ssh/config
-|4,49,1,0,1636621644,"~/.ssh/config"
-'2  1  0  ~/project_repo/py3_study.yaml
-|4,50,1,0,1636618555,"~/project_repo/py3_study.yaml"
-'3  1  0  ~/project_repo/py3_study.yaml
-|4,51,1,0,1636618547,"~/project_repo/py3_study.yaml"
-'4  1  0  ~/py3_study.yaml
-|4,52,1,0,1636618523,"~/py3_study.yaml"
-'5  1  0  ~/py3_srudy.yaml
-|4,53,1,0,1636618509,"~/py3_srudy.yaml"
-'6  1  0  ~/py3_study.yaml
-|4,54,1,0,1636618462,"~/py3_study.yaml"
-'7  1  0  ~/project_repo/py3_study.yaml
-|4,55,1,0,1636617534,"~/project_repo/py3_study.yaml"
-'8  1  0  ~/project_repo/py3_study.yaml
-|4,56,1,0,1636617534,"~/project_repo/py3_study.yaml"
+'0  2  4  ~/.gitignore
+|4,48,2,4,1637267874,"~/.gitignore"
+'1  1  27  ~/.gitignore
+|4,49,1,27,1637267850,"~/.gitignore"
+'2  1  27  ~/.gitignore
+|4,50,1,27,1637267850,"~/.gitignore"
+'3  1  40  ~/run_jupyter.sh
+|4,51,1,40,1636622314,"~/run_jupyter.sh"
+'4  1  0  ~/.ssh/config
+|4,52,1,0,1636621644,"~/.ssh/config"
+'5  1  0  ~/project_repo/py3_study.yaml
+|4,53,1,0,1636618555,"~/project_repo/py3_study.yaml"
+'6  1  0  ~/project_repo/py3_study.yaml
+|4,54,1,0,1636618547,"~/project_repo/py3_study.yaml"
+'7  1  0  ~/py3_study.yaml
+|4,55,1,0,1636618523,"~/py3_study.yaml"
+'8  1  0  ~/py3_srudy.yaml
+|4,56,1,0,1636618509,"~/py3_srudy.yaml"
 '9  1  0  ~/py3_study.yaml
-|4,57,1,0,1636617009,"~/py3_study.yaml"
+|4,57,1,0,1636618462,"~/py3_study.yaml"
 
 # Jumplist (newest first):
+-'  2  4  ~/.gitignore
+|4,39,2,4,1637267874,"~/.gitignore"
+-'  1  27  ~/.gitignore
+|4,39,1,27,1637267865,"~/.gitignore"
+-'  1  27  ~/.gitignore
+|4,39,1,27,1637267850,"~/.gitignore"
+-'  1  40  ~/run_jupyter.sh
+|4,39,1,40,1636622314,"~/run_jupyter.sh"
+-'  1  40  ~/run_jupyter.sh
+|4,39,1,40,1636622314,"~/run_jupyter.sh"
+-'  1  40  ~/run_jupyter.sh
+|4,39,1,40,1636622314,"~/run_jupyter.sh"
 -'  1  40  ~/run_jupyter.sh
 |4,39,1,40,1636622314,"~/run_jupyter.sh"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1636621644,"~/.ssh/config"
 -'  1  0  ~/.ssh/config
 |4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1636621644,"~/.ssh/config"
 -'  1  0  ~/project_repo/py3_study.yaml
 |4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
 -'  1  0  ~/project_repo/py3_study.yaml
@@ -63,6 +87,54 @@
 |4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
 -'  1  0  ~/project_repo/py3_study.yaml
 |4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618555,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
+-'  1  0  ~/project_repo/py3_study.yaml
+|4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
 -'  1  0  ~/project_repo/py3_study.yaml
 |4,39,1,0,1636618547,"~/project_repo/py3_study.yaml"
 -'  1  0  ~/project_repo/py3_study.yaml
@@ -87,6 +159,54 @@
 |4,39,1,0,1636618523,"~/py3_study.yaml"
 -'  1  0  ~/py3_study.yaml
 |4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
+-'  1  0  ~/py3_study.yaml
+|4,39,1,0,1636618523,"~/py3_study.yaml"
 -'  1  0  ~/py3_srudy.yaml
 |4,39,1,0,1636618509,"~/py3_srudy.yaml"
 -'  1  0  ~/py3_srudy.yaml
@@ -119,138 +239,26 @@
 |4,39,1,0,1636618509,"~/py3_srudy.yaml"
 -'  1  0  ~/py3_srudy.yaml
 |4,39,1,0,1636618509,"~/py3_srudy.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636618462,"~/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/project_repo/py3_study.yaml
-|4,39,1,0,1636617534,"~/project_repo/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
--'  1  0  ~/py3_study.yaml
-|4,39,1,0,1636617009,"~/py3_study.yaml"
+-'  1  0  ~/py3_srudy.yaml
+|4,39,1,0,1636618509,"~/py3_srudy.yaml"
+-'  1  0  ~/py3_srudy.yaml
+|4,39,1,0,1636618509,"~/py3_srudy.yaml"
+-'  1  0  ~/py3_srudy.yaml
+|4,39,1,0,1636618509,"~/py3_srudy.yaml"
+-'  1  0  ~/py3_srudy.yaml
+|4,39,1,0,1636618509,"~/py3_srudy.yaml"
+-'  1  0  ~/py3_srudy.yaml
+|4,39,1,0,1636618509,"~/py3_srudy.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1637267873	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	1	28
+	+	2	4
 
 > ~/run_jupyter.sh
 	*	1636622309	0
