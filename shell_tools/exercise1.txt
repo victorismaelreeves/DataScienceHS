@@ -1,1 +1,1 @@
-1. ls -a -h -t --colour
+1. ls -lath --color=auto
