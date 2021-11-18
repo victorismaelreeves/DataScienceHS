@@ -1,3 +1,0 @@
-#!/home/ml32020/victor_i/miniconda3/bin/python
-from numba.pycc import main
-main()
