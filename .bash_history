@@ -156,3 +156,20 @@ git commit -m "all"  --allow-unrelated-histories
 git add software-development-for-ds  --allow-unrelated-histories
 git push
 git push origin master
+git add .
+git status
+git commit -m "test"
+git push
+git push origin master
+git status
+git add -A
+git status
+ls
+git status
+git add 
+git add .
+git status
+git add .
+git status
+ls 
+ls software-development-for-ds/
