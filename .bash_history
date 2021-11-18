@@ -115,3 +115,44 @@ logout
 tmux
 git clone https://github.com/girafe-ai/software-development-for-ds.git
 ls
+git commit -m lattest
+git push .
+git add .
+git commit -m latest
+git push
+git push --set-upstream origin master
+git pull
+git pull remote origin master
+git branch --set-upstream-to=origin/<branch> master
+git pull master
+git pull DataScience
+git pull https://github.com/victorismaelreeves/DataScience.git
+git add .
+git commit -m latest
+git push
+git pull
+git pull origin master
+git pull origin master --allow-unrelated-histories
+git add .
+git mergetool
+git checkout
+git checkout .
+git commit -m "using theirs"
+git pull origin master
+git add .
+ls
+git checkout
+git checkout Msoftware-development-for-ds
+git checkout software-development-for-ds
+git add git add filename.c
+git add software-development-for-ds
+git pull origin master
+git add software-development-for-d
+git add software-development-for-ds
+git commit -m "all"
+git pull origin master
+git pull origin master  --allow-unrelated-histories
+git commit -m "all"  --allow-unrelated-histories
+git add software-development-for-ds  --allow-unrelated-histories
+git push
+git push origin master
